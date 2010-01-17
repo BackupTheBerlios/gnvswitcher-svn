@@ -1,0 +1,4 @@
+backend: nvidia
+associated displays: DFP-0, DFP-1, DFP-2
+metamode: DFP-1: nvidia-auto-select @1680x1050 +1680+0, DFP-2: 1680x1050 @1680x1050 +0+0
+scaling: default, stretched, stretched

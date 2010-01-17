@@ -1,0 +1,4 @@
+backend: nvidia
+associated displays: DFP-0, CRT-0
+metamode: CRT-0: 1600x1200 @1600x1200 +1440+0, DFP-0: 1440x900 @1440x900 +0+0
+scaling: default, stretched
